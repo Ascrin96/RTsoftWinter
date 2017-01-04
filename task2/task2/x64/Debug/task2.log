@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\progs\task2\task2\list.h(22): error C2065: Datatype: необъявленный идентификатор
+d:\progs\task2\task2\list.h(22): error C2923: List: "Datatype" не является допустимым аргументом типа шаблон для параметра "DataType"
+d:\progs\task2\task2\list.h(24): error C2244: List::List: не удается сопоставить определение функции существующему объявлению
+  d:\progs\task2\task2\list.h(22): note:  см. объявление "List::List"
+  d:\progs\task2\task2\list.h(24): note: определение
+  d:\progs\task2\task2\list.h(24): note: 'List::List(void)'
+  d:\progs\task2\task2\list.h(24): note: существующие объявления
+  d:\progs\task2\task2\list.h(24): note: 'List<DataType>::List(void)'
+d:\progs\task2\task2\list.h(27): error C2065: Datatype: необъявленный идентификатор
+d:\progs\task2\task2\list.h(27): error C2923: List: "Datatype" не является допустимым аргументом типа шаблон для параметра "DataType"
+d:\progs\task2\task2\list.h(34): error C2244: List::~List: не удается сопоставить определение функции существующему объявлению
+  d:\progs\task2\task2\list.h(27): note:  см. объявление "List::~List"
+  d:\progs\task2\task2\list.h(34): note: определение
+  d:\progs\task2\task2\list.h(34): note: 'List::~List(void)'
+  d:\progs\task2\task2\list.h(34): note: существующие объявления
+  d:\progs\task2\task2\list.h(34): note: 'List<DataType>::~List(void)'
